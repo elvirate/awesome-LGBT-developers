@@ -1,5 +1,5 @@
-# Awesome Black Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Talks, blog posts, and interviews amplifying the voices of Black developers on GitHub because #BlackLivesMatter
+# Awesome LGBT Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Talks, blog posts, and interviews amplifying the voices of LGBT developers on GitHub because #LGBTLivesMatter
 
 <!-- AUTOMATION WARNING -- DO NOT EDIT BELOW -->
 <!-- ####################################### -->
